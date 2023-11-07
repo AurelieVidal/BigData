@@ -108,6 +108,6 @@ We have computed the total sales amount per city by employing the MapReduce arch
 
 ## Contributors
 
-- DUVAL Aurélie
+- VIDAL Aurélie
 - DEPIT Chloé
 - ROYER--BOURNELLE Antoine
